@@ -1,3 +1,8 @@
+//A multithreaded java program that prints sum of prime number till n and sum of factors of 3/5/7 till n for very large values of n(upto 5x10^8)
+//input is read from a file
+
+
+
 import java.util.Scanner;
 
 class PrimeMultiThread implements Runnable{
