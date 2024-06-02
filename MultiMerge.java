@@ -1,4 +1,5 @@
-
+//A modified merge sort algorithm, uses threads to improve the time complexity further
+//The input is read from a file
 
 
 import java.io.FileInputStream;
