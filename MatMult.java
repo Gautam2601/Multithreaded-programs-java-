@@ -1,4 +1,4 @@
-
+//Multithreaded java program that multiples three matrices of higher order (upto 10^6)
 
 
 import java.util.Scanner;
