@@ -1,5 +1,5 @@
 //Multithreaded java program that multiples three matrices of higher order (upto 10^6)
-
+//input is read from a file
 
 import java.util.Scanner;
 import java.io.File;
